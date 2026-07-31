@@ -27,5 +27,8 @@ color: #00ff00;
 img {
 border-radius: 30px;
 text-align: center;
-width: 100xp;
+}
+
+img{
+    max-width: 100xp;
 }
