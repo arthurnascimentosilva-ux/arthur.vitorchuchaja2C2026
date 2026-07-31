@@ -27,11 +27,5 @@ color: #00ff00;
 img {
 border-radius: 30px;
 text-align: center;
-}
-
-article img, post img {
-  max-width: 100px;
-  height: auto;
-  display: block;
-  margin: center;
+width: 100xp;
 }
