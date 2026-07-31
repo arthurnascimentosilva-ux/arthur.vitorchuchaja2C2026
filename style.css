@@ -19,6 +19,14 @@ main {
     border-radius: 20px;
     margin-top: 20px;
 }}
+main {
+    background-color: #38a79dd0;
+    padding: 20px;
+    border: 1px solid #24ee0a;
+    border-radius: 20px;
+    margin-top: 20px;
+}}
+
 footer {
 text-align: center;
 font-size: 12px;
