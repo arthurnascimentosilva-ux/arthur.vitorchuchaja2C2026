@@ -13,10 +13,12 @@ text-decoration: none;
 font-weight: bold;
 }
 main {
-background-color: #lelele;
-padding: 20px;
-border-radius: 10px;
-}
+    background-color: #bcdd60;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    margin-top: 20px;
+}}
 footer {
 text-align: center;
 font-size: 12px;
